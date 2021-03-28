@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_sickwiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_sickwiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sickwiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sickwiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sickwiz" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sickwiz" height=43"  width="43" /></a> 
 <a href="https://instagram.com/https://www.instagram.com/_sickwiz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_sickwiz/" height="30" width="40" /></a>
 </p>
 
@@ -62,5 +62,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sickwiz&show_icons=true&locale=en" alt="payalpatra" /></p>
 
 
