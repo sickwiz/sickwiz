@@ -21,21 +21,23 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_sickwiz" target="blank"><img src="https://img.shields.io/twitter/follow/_sickwiz?logo=twitter&style=for-the-badge" alt="_sickwiz" /></a> </p>
 
-- 📜 I’m currently working with [Cybersapiens LLP](https://cybersapiens.in/) as a Cyber Security Intern
+- 📜 I’m currently working with [Hackdev (Codesnag)](https://codesnag.com/) as a Cyber Security Intern
 
-- 🏥 I've worked with Chimps Technology as a web development Intern
+- 🏥 I've worked with [NCIIPC](https://nciipc.gov.in/) as a cyber security research intern during June '21 to July '21.
 
-- 🎨 I am volunteering as Cyber Security Coordinator at [DSC JIIT](https://dscjiit.live/) for the session 2020-21.
+- I am also a member of **The hackers club** at [Cybersapiens United LLP](https://cybersapiens.in/) for red team activities.
 
-- 👨‍ I am also the core team member at [OSDC](https://github.com/osdc)
+- 🎨 I am volunteering as Cyber Security Advisor at [DSC JIIT](https://dscjiit.live/) for the session 2020-21.
 
-- 🌱 I’m currently learning **express.js**
+- 👨‍ I am also volunteering at [OSDC](https://github.com/osdc)
+
+- 🌱 I’m currently developing **docker images for ctf challenges.**
 
 - 👨‍💻 Find me on [LinkedIn/sickwiz](https://www.linkedin.com/in/sickwiz/)
 
 - 💬 Ask me about **Python, Web application security, Cryptanalysis and Steganography**
 
-- 📫 How to reach me **aamiropti@gmail.com**
+- 📫 Reach me at **aamiropti@gmail.com**
 
 - ⚡ Fun fact **I write poetries in Urdu**
 
