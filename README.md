@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_sickwiz" target="blank"><img src="https://img.shields.io/twitter/follow/_sickwiz?logo=twitter&style=for-the-badge" alt="_sickwiz" /></a> </p>
 
-- 📜 I’m currently working with [Hackdev (Codesnag)](https://codesnag.com/) as a Cyber Security Intern
+- 📜 I’m currently working with [Payatu](https://payatu.com/) as a Cyber Security Intern
 
 - 🏥 I've worked with [NCIIPC](https://nciipc.gov.in/) as a cyber security research intern during June '21 to July '21.
 
