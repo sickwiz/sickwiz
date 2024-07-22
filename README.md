@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_sickwiz" target="blank"><img src="https://img.shields.io/twitter/follow/_sickwiz?logo=twitter&style=for-the-badge" alt="_sickwiz" /></a> </p>
 
-- 📜 I am currently working with [Traceable AI ]([https://atlan.com/](https://www.traceable.ai/)) (04/24 - Present) as a Security Research Engineer. 
+- 📜 I am currently working with [Traceable AI](https://www.traceable.ai/) (04/24 - Present) as a Security Research Engineer. 
 
 - 📜 I worked working with [Atlan](https://atlan.com/) (10/23 - 04/24) as a Security Engineer. 
 
