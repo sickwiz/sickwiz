@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey 👋 I'm Aamir Ahmad</h1>
-<h3 align="center">Web Application Penetration Tester and Full Stack Developer from India !</h3>
+<h3 align="center">Security Researcher from India !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sickwiz&label=Profile%20views&color=0e75b6&style=flat" alt="sickwiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_sickwiz" target="blank"><img src="https://img.shields.io/twitter/follow/_sickwiz?logo=twitter&style=for-the-badge" alt="_sickwiz" /></a> </p>
 
-- 📜 I’m currently working with [Atlan](https://atlan.com/) as a Security Engineering Intern
+- 📜 I am currently working with [Traceable AI ]([https://atlan.com/](https://www.traceable.ai/)) (04/24 - Present) as a Security Research Engineer. 
+
+- 📜 I worked working with [Atlan](https://atlan.com/) (10/23 - 04/24) as a Security Engineer. 
 
 - 🏥 I've worked with [NCIIPC](https://nciipc.gov.in/) as a cyber security research intern during June '21 to July '21.
 
 - 👨‍💻 Find me on [LinkedIn/sickwiz](https://www.linkedin.com/in/sickwiz/)
 
-- 💬 Ask me about **Web application security, Cloud Security, Infrasecurity and CTFs**
+- 💬 Ask me about **Web application security, Cloud Security, Threat Hunting, GRC and CTFs**
 
-- 📫 Reach me at **aamiropti@gmail.com**
 
 - ⚡ Fun fact **I write poetries in Urdu**
 
@@ -56,6 +57,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sickwiz&show_icons=true&locale=en" alt="payalpatra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sickwiz&show_icons=true&locale=en" alt="aamir-ahmad" /></p>
 
 
