@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_sickwiz" target="blank"><img src="https://img.shields.io/twitter/follow/_sickwiz?logo=twitter&style=for-the-badge" alt="_sickwiz" /></a> </p>
 
-- 📜 I am currently working with [Traceable AI](https://www.traceable.ai/) (04/24 - Present) as a Security Research Engineer II. 
+- 📜 I am currently working with [Matillion](https://www.matillion.com/) (08/2025 - Present) as a Senior Application Security Engineer. 
 
-- 📜 I worked working with [Atlan](https://atlan.com/) (10/23 - 04/24) as a Security Engineer. 
-
-- 🏥 I've worked with [NCIIPC](https://nciipc.gov.in/) as a cyber security research intern during June '21 to July '21.
+- 📜 I worked working with Atlan, Traceable and Harness. 
 
 - 👨‍💻 Find me on [LinkedIn/sickwiz](https://www.linkedin.com/in/sickwiz/)
 
